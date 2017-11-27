@@ -26,6 +26,7 @@
         android:layout_marginLeft="@dimen/spacing_large"
         android:layout_marginStart="@dimen/spacing_large"
         android:text="(ー_ー)"
+        android:visibility="gone"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"/>
 
     <TextView
@@ -37,6 +38,7 @@
         android:layout_marginLeft="@dimen/spacing_large"
         android:layout_marginStart="@dimen/spacing_large"
         android:text="只是个摆设"
+        android:visibility="gone"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
 
 </RelativeLayout>
